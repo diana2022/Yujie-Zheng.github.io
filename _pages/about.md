@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-i am a year 2 student
+I'm a third year master student from [the math department of CNU ](https://math.cnu.edu.cn/index.htm), [Capital Normal University](https://www.cnu.edu.cn/). My research interest includes topics relative to Weil conjecture, Perverse sheaves, algebraic stack and their cohomology.
 
 
 A data-driven personal website
